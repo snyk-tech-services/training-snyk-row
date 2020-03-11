@@ -7,7 +7,7 @@ const main = () => {
 	app.get('/', (req, res) => res.send('Hello Snyk CX ROW!'))
 	app.get('/dom', (req, res) => res.send('Hello Dom!'))
 	app.get('/antoine', (req,res) => {
-						res.send(""+math.doublesum(1,2))
+						res.send(""+math.triplesum(1,2))
 						console.log('somebody reached Antoine')
 					})
 	
