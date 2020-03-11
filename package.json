@@ -1,7 +1,7 @@
 {
   "name": "training-snyk-row",
-  "version": "1.0.0",
-  "description": "Antoine is here Hello from Idan",
+  "version": "1.0.1",
+  "description": "Antoine is here Hello from Idan,Minor edit from Xavier",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
