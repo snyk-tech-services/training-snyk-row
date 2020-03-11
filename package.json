@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/snyk-tech-services/training-snyk-row/issues"
   },
-  "homepage": "https://github.com/snyk-tech-services/training-snyk-row#readme"
+  "homepage": "https://github.com/snyk-tech-services/training-snyk-row#readme",
+  "dependencies": {
+    "ms": "^2.1.2"
+  }
 }
