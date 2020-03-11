@@ -3,7 +3,7 @@ function sum(a, b) {
 }
 
 function doublesum(a,b) {
-  return 2*(a + b)
+  return 3*(a + b)
 }
 
 module.exports = {
