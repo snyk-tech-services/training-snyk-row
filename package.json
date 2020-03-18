@@ -19,7 +19,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "ms": "^2.1.2",
-    "vp-toolkit": "^0.2.1"
+    "vp-toolkit": "^0.2.2"
   },
   "devDependencies": {
     "axios": "^0.19.2",
