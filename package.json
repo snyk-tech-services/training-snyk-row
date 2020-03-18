@@ -18,7 +18,8 @@
   "homepage": "https://github.com/snyk-tech-services/training-snyk-row#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "ms": "^2.1.2"
+    "ms": "^2.1.2",
+    "vp-toolkit": "^0.2.1"
   },
   "devDependencies": {
     "axios": "^0.19.2",
