@@ -5,7 +5,7 @@ const port = 3000
 
 const main = () => {
 	app.get('/', (req, res) => res.send('Hello Snyk CX ROW!'))
-	app.get('/dom', (req, res) => res.send('Hello Dom!'))
+	app.get('/idan', (req, res) => res.send('Hello Idan!'))
 	app.get('/antoine', (req,res) => {
 						res.send(""+math.triplesum(1,2))
 						console.log('somebody reached Antoine')
