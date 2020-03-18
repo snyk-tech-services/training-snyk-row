@@ -6,7 +6,12 @@ function triplesum(a,b) {
   return 3*(a + b)
 }
 
+function squaresum(a,b) {
+  return (a + b)*(a + b)
+}
+
 module.exports = {
   sum,
-  triplesum
+  triplesum,
+  squaresum
 }
